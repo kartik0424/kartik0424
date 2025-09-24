@@ -1,30 +1,45 @@
-# 👋 Hi, I'm Kartik!
+# 👋 Hi, I'm Kartik!  
 
-🚀 Aspiring Full-Stack Java Developer | 🌱 Currently Learning Java and Data Structures  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=38C2FF&lines=Aspiring+Full-Stack+Java+Developer;DSA+Learner+%26+Problem+Solver;Future+Spring+Boot+%2B+React+Developer;Always+learning+new+tech)](https://git.io/typing-svg)
 
-## 🌟 About Me:
-- 📚 Exploring the foundations of programming with Java and algorithms.
-- 🔭 Aiming to master backend development and frontend technologies to build robust applications.
-- 🎯 Passionate about problem-solving and creating meaningful projects.
+---
 
-## 🛠️ Technologies I'm Exploring:
-- **Languages**: Java (Core & Advanced), JavaScript
-- **Concepts**: Data Structures & Algorithms, Object-Oriented Programming
-- **Tools**: Git, IntelliJ IDEA, Eclipse, VS Code
+## 🌟 About Me  
+- 📚 Exploring **Java** & **Algorithms**  
+- 🔭 Working towards **Backend + Frontend mastery**  
+- 🎯 Passionate about **Problem-Solving & Projects**  
 
-## 📂 Current Projects:
-- **[DSA Practice Repository](#)**: A collection of solved problems and algorithm implementations.  
-- **[Java Basics](#)**: Exercises and mini-projects to deepen my Java knowledge.
+---
 
-## 📈 Goals:
-- Build projects that showcase my understanding of Java.
-- Transition into Full-Stack development with Spring Boot, React, and more.
-- Contribute to open-source projects.
+## 🛠️ Tech Stack & Tools  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 
-## 🌐 Connect with Me:
-- 💼 [LinkedIn](www.linkedin.com/in/kartik-kathalkar-052404291)  
+---
 
-<!---
-kartik0424/kartik0424 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 📊 GitHub Stats (Dynamic)  
+![Kartik's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUserName&show_icons=true&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourUserName&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUserName&layout=compact&theme=tokyonight)  
+
+---
+
+## 📂 Projects  
+- 📝 [DSA Practice Repo](#) → Solved problems & algorithms  
+- 💻 [Java Basics](#) → Exercises & mini-projects  
+
+---
+
+## 📈 Goals  
+✔ Build projects to showcase **Java expertise**  
+✔ Become a **Full-Stack Developer** (Spring Boot + React)  
+✔ Contribute to **Open-Source**  
+
+---
+
+## 🌐 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YourLinkedInLink)  
