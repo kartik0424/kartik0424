@@ -6,7 +6,7 @@
 ---
 
 ## 🌟 About Me  
-- 📚 Exploring **Java** & **Algorithms**  
+- 📚 Exploring **MERN** & **Algorithms**  
 - 🔭 Working towards **Backend + Frontend mastery**  
 - 🎯 Passionate about **Problem-Solving & Building Real Projects**  
 
@@ -21,9 +21,8 @@
 ---
 
 ## 📈 Goals  
-- 🚀 Build projects that showcase **Java & Full-Stack expertise**  
+- 🚀 Build projects that showcase **Full-Stack expertise**  
 - 👨‍💻 **Lead a development team** and collaborate on impactful projects  
-- 🤖 Explore and contribute to **emerging AI technologies**  
 - 🌍 Stay curious & keep learning **new tools and frameworks**  
 
 ---
